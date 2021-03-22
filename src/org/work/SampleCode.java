@@ -4,5 +4,8 @@ public class SampleCode {
 public static void main(String[] args) {
 	System.out.println("git");
 	System.out.println("github");	
+	
+	System.out.println("git1");
+	
 }	
 }
